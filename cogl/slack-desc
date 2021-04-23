@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+    |-----handy-ruler------------------------------------------------------|
+cogl: cogl (library for using 3D graphics hardware for rendering)
+cogl:
+cogl: The API departs from the flat state machine style of OpenGL and is
+cogl: designed to make it easy to write orthogonal components that can
+cogl: render without stepping on each others toes.
+cogl:
+cogl:
+cogl:
+cogl:
+cogl:
+cogl:
